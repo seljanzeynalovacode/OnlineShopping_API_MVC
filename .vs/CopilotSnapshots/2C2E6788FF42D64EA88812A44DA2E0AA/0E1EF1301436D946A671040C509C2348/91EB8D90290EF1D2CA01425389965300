@@ -1,0 +1,77 @@
+﻿@model Online_Shop_API.BLL.Dtos.OrderDetailDto
+
+@{
+    ViewData["Title"] = "Edit Order Detail";
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <h1 class="mb-4">Edit Order Detail</h1>
+
+            <form asp-action="Edit" method="post" class="needs-validation" novalidate>
+                <div asp-validation-summary="ModelOnly" class="alert alert-danger" role="alert"></div>
+
+                <input type="hidden" asp-for="Id" />
+
+                <div class="mb-3">
+                    <label asp-for="OrderId" class="form-label">Order</label>
+                    <select asp-for="OrderId" class="form-select" required>
+                        <option value="">-- Select an Order --</option>
+                        @if (ViewBag.Orders != null)
+                        {
+                            foreach (var order in ViewBag.Orders)
+                            {
+                                <option value="@order.Id">Order #@order.Id - Customer ID: @order.CustomerId - Total: $@order.TotalAmount
+                                </option>
+                            }
+                        }
+                    </select>
+                    <span asp-validation-for="OrderId" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="ProductId" class="form-label">Product</label>
+                    <select asp-for="ProductId" class="form-select" required>
+                        <option value="">-- Select a Product --</option>
+                        @if (ViewBag.Products != null)
+                        {
+                            foreach (var product in ViewBag.Products)
+                            {
+                                <option value="@product.Id">@product.Name - $@product.Price</option>
+                            }
+                        }
+                    </select>
+                    <span asp-validation-for="ProductId" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Quantity" class="form-label">Quantity</label>
+                    <input asp-for="Quantity" type="number" min="1" class="form-control" placeholder="0" required />
+                    <span asp-validation-for="Quantity" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Price" class="form-label">Price</label>
+                    <div class="input-group">
+                        <span class="input-group-text">$</span>
+                        <input asp-for="Price" type="number" step="0.01" class="form-control" placeholder="0.00" required />
+                    </div>
+                    <span asp-validation-for="Price" class="text-danger"></span>
+                </div>
+
+                <div class="d-grid gap-2 d-sm-flex justify-content-sm-end mt-4">
+                    <button type="submit" class="btn btn-primary">Save Changes</button>
+                    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
+

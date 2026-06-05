@@ -1,0 +1,65 @@
+﻿@model Online_Shop_API.BLL.Dtos.OrderDetailDto
+
+@{
+    ViewData["Title"] = "Delete Order Detail";
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <h1 class="mb-4 text-danger">Delete Order Detail</h1>
+
+            <div class="alert alert-warning" role="alert">
+                <h4 class="alert-heading">Warning!</h4>
+                <p>Are you sure you want to delete this order detail? This action cannot be undone.</p>
+            </div>
+
+            <div class="card mb-4">
+                <div class="card-body">
+                    <h5 class="card-title">Order Detail Information</h5>
+                    <dl class="row">
+                        <dt class="col-sm-3">ID</dt>
+                        <dd class="col-sm-9">@Html.DisplayFor(model => model.Id)</dd>
+
+                        <dt class="col-sm-3">Order ID</dt>
+                        <dd class="col-sm-9">
+                            <span class="badge bg-info">@Html.DisplayFor(model => model.OrderId)</span>
+                        </dd>
+
+                        <dt class="col-sm-3">Product ID</dt>
+                        <dd class="col-sm-9">
+                            <span class="badge bg-info">@Html.DisplayFor(model => model.ProductId)</span>
+                        </dd>
+
+                        <dt class="col-sm-3">Quantity</dt>
+                        <dd class="col-sm-9">
+                            <span class="badge bg-secondary">@Html.DisplayFor(model => model.Quantity)</span>
+                        </dd>
+
+                        <dt class="col-sm-3">Price</dt>
+                        <dd class="col-sm-9">
+                            <span class="badge bg-success">$@Html.DisplayFor(model => model.Price)</span>
+                        </dd>
+
+                        <dt class="col-sm-3">Total</dt>
+                        <dd class="col-sm-9">
+                            @{
+                                decimal total = Model.Quantity * Model.Price;
+                            }
+                            <span class="badge bg-primary">$@total.ToString("F2")</span>
+                        </dd>
+                    </dl>
+                </div>
+            </div>
+
+            <form asp-action="Delete" method="post" class="d-inline">
+                <input type="hidden" asp-for="Id" />
+                <div class="d-grid gap-2 d-sm-flex justify-content-sm-end">
+                    <button type="submit" class="btn btn-danger">Confirm Delete</button>
+                    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+

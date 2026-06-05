@@ -1,0 +1,90 @@
+﻿using Microsoft.EntityFrameworkCore;
+using Online_Shop_API.DAL.Data;
+using Online_Shop_API.DAL.Entities;
+using Online_Shop_API.DAL.Enums;
+using Online_Shop_API.DAL.Repositories.Interfaces;
+
+namespace Online_Shop_API.DAL.Repositories
+{
+    public class OrderRepository : IOrderRepository
+    {
+        private readonly AppDbContext _context;
+        public OrderRepository(AppDbContext context)
+        {
+            _context = context;
+        }
+        public async Task AddAsync(Order order)
+        {
+            await _context.Orders.AddAsync(order);
+            await _context.SaveChangesAsync();
+        }
+        public async Task DeleteAsync(int id)
+        {
+            var order = await _context.Orders.FindAsync(id);
+            if (order != null)
+            {
+                _context.Orders.Remove(order);
+                await _context.SaveChangesAsync();
+            }
+        }
+
+        public async Task<IEnumerable<Order>> GetAllAsync()
+        {
+            var orders = await _context.Orders.ToListAsync();
+            return orders;
+        }
+
+        public async Task<Order> GetByIdAsync(int id)
+        {
+            var order = await _context.Orders.FindAsync(id);
+            return order;
+        }
+        public async Task UpdateAsync(Order order)
+        {
+            var existingOrder = await _context.Orders.FindAsync(order.Id);
+            if (existingOrder != null)
+            {
+
+                existingOrder.OrderDate = order.OrderDate;
+                existingOrder.TotalAmount = order.TotalAmount;
+                existingOrder.Status = order.Status;
+                existingOrder.CustomerId = order.CustomerId;
+                _context.Orders.Update(existingOrder);
+                await _context.SaveChangesAsync();
+            }
+        }
+
+        public async Task AddItemToOrderAsync(int orderId, OrderDetail item)
+        {
+            var order = await _context.Orders.FindAsync(orderId);
+            if (order != null)
+            {
+                item.OrderId = orderId;
+                await _context.OrderDetails.AddAsync(item);
+                await _context.SaveChangesAsync();
+            }
+        }
+
+        public async Task ChangeOrderStatusAsync(int orderId, Status newStatus)
+        {
+            var order = await _context.Orders.FindAsync(orderId);
+            if (order != null)
+            {
+                order.Status = newStatus;
+                _context.Orders.Update(order);
+                await _context.SaveChangesAsync();
+            }
+        }
+
+        public async Task RemoveItemFromOrderAsync(int orderId, int orderDetailId)
+        {
+            var orderDetail = await _context.OrderDetails.FindAsync(orderDetailId);
+            if (orderDetail != null && orderDetail.OrderId == orderId)
+            {
+                _context.OrderDetails.Remove(orderDetail);
+                await _context.SaveChangesAsync();
+            }
+        }
+    }
+
+}

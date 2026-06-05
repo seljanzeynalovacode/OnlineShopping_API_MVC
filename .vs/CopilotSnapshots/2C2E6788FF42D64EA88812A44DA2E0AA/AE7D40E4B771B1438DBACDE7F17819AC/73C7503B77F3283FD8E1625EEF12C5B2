@@ -1,0 +1,97 @@
+﻿using Microsoft.AspNetCore.Mvc;
+using Online_Shop_API.BLL.Dtos;
+using Online_Shop_API.BLL.Services.Interfaces;
+
+namespace Online_Shop_API.UI.Controllers
+{
+    public class ProductController : Controller
+    {
+        private readonly IProductService _productService;
+        private readonly ICategoryService _categoryService;
+
+        public ProductController(IProductService productService, ICategoryService categoryService)
+        {
+            _productService = productService;
+            _categoryService = categoryService;
+        }
+        public async Task<IActionResult> Index()
+        {
+            var models = await _productService.GetAllAsync();
+            return View(models);
+        }
+        [HttpGet]
+        public async Task<IActionResult> Create()
+        {
+            var categories = await _categoryService.GetAllAsync();
+            ViewBag.Categories = categories;
+            return View();
+        }
+        [HttpPost]
+        public async Task<IActionResult> Create(ProductDto dto)
+        {
+            if (ModelState.IsValid)
+            {
+                await _productService.AddAsync(dto);
+                return RedirectToAction(nameof(Index));
+            }
+            var categories = await _categoryService.GetAllAsync();
+            ViewBag.Categories = categories;
+            return View(dto);
+        }
+        [HttpGet]
+        public async Task<IActionResult> Edit(int id)
+        {
+            var model = await _productService.GetByIdAsync(id);
+            if (model == null)
+            {
+                return NotFound();
+            }
+            var categories = await _categoryService.GetAllAsync();
+            ViewBag.Categories = categories;
+            return View(model);
+        }
+        [HttpPost]
+        public async Task<IActionResult> Edit(int id, ProductDto dto)
+        {
+            if (id != dto.Id)
+            {
+                return BadRequest();
+            }
+            if (ModelState.IsValid)
+            {
+                await _productService.UpdateAsync(dto);
+                return RedirectToAction(nameof(Index));
+            }
+            var categories = await _categoryService.GetAllAsync();
+            ViewBag.Categories = categories;
+            return View(dto);
+        }
+        [HttpGet]
+        public async Task<IActionResult> Delete(int id)
+        {
+            var model = await _productService.GetByIdAsync(id);
+            if (model == null)
+            {
+                return NotFound();
+            }
+            return View(model);
+        }
+        [HttpPost, ActionName("Delete")]
+        public async Task<IActionResult> DeleteConfirmed(int id)
+        {
+            await _productService.DeleteAsync(id);
+            return RedirectToAction(nameof(Index));
+
+        }
+        [HttpGet]
+        public async Task<IActionResult> Details(int id)
+        {
+            var model = await _productService.GetByIdAsync(id);
+            if (model == null)
+            {
+                return NotFound();
+            }
+            return View(model);
+        }
+    }
+}

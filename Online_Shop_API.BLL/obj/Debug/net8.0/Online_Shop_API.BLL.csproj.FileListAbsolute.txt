@@ -1,0 +1,15 @@
+C:\Users\ACER\Documents\Code Academy\Online_Shop_API\Solution1\Online_Shop_API.BLL\bin\Debug\net8.0\Online_Shop_API.BLL.deps.json
+C:\Users\ACER\Documents\Code Academy\Online_Shop_API\Solution1\Online_Shop_API.BLL\bin\Debug\net8.0\Online_Shop_API.BLL.dll
+C:\Users\ACER\Documents\Code Academy\Online_Shop_API\Solution1\Online_Shop_API.BLL\bin\Debug\net8.0\Online_Shop_API.BLL.pdb
+C:\Users\ACER\Documents\Code Academy\Online_Shop_API\Solution1\Online_Shop_API.BLL\bin\Debug\net8.0\Online_Shop_API.DAL.dll
+C:\Users\ACER\Documents\Code Academy\Online_Shop_API\Solution1\Online_Shop_API.BLL\bin\Debug\net8.0\Online_Shop_API.DAL.pdb
+C:\Users\ACER\Documents\Code Academy\Online_Shop_API\Solution1\Online_Shop_API.BLL\obj\Debug\net8.0\Online_Shop_API.BLL.csproj.AssemblyReference.cache
+C:\Users\ACER\Documents\Code Academy\Online_Shop_API\Solution1\Online_Shop_API.BLL\obj\Debug\net8.0\Online_Shop_API.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Documents\Code Academy\Online_Shop_API\Solution1\Online_Shop_API.BLL\obj\Debug\net8.0\Online_Shop_API.BLL.AssemblyInfoInputs.cache
+C:\Users\ACER\Documents\Code Academy\Online_Shop_API\Solution1\Online_Shop_API.BLL\obj\Debug\net8.0\Online_Shop_API.BLL.AssemblyInfo.cs
+C:\Users\ACER\Documents\Code Academy\Online_Shop_API\Solution1\Online_Shop_API.BLL\obj\Debug\net8.0\Online_Shop_API.BLL.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\Code Academy\Online_Shop_API\Solution1\Online_Shop_API.BLL\obj\Debug\net8.0\Online_S.506A671C.Up2Date
+C:\Users\ACER\Documents\Code Academy\Online_Shop_API\Solution1\Online_Shop_API.BLL\obj\Debug\net8.0\Online_Shop_API.BLL.dll
+C:\Users\ACER\Documents\Code Academy\Online_Shop_API\Solution1\Online_Shop_API.BLL\obj\Debug\net8.0\refint\Online_Shop_API.BLL.dll
+C:\Users\ACER\Documents\Code Academy\Online_Shop_API\Solution1\Online_Shop_API.BLL\obj\Debug\net8.0\Online_Shop_API.BLL.pdb
+C:\Users\ACER\Documents\Code Academy\Online_Shop_API\Solution1\Online_Shop_API.BLL\obj\Debug\net8.0\ref\Online_Shop_API.BLL.dll

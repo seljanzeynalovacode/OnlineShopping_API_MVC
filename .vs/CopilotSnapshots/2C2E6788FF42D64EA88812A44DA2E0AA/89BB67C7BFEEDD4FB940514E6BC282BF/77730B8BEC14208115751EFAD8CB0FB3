@@ -1,0 +1,43 @@
+﻿@model Online_Shop_API.BLL.Dtos.CategoryDto
+
+@{
+    ViewData["Title"] = "Delete Category";
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+          <h1 class="mb-4 text-danger">Delete Category</h1>
+
+   <div class="alert alert-warning" role="alert">
+     <h4 class="alert-heading">Warning!</h4>
+     <p>Are you sure you want to delete this category? This action cannot be undone.</p>
+         </div>
+
+    <div class="card mb-4">
+              <div class="card-body">
+          <h5 class="card-title">Category Information</h5>
+       <dl class="row">
+        <dt class="col-sm-3">ID</dt>
+        <dd class="col-sm-9">@Html.DisplayFor(model => model.Id)</dd>
+
+  <dt class="col-sm-3">Category Name</dt>
+   <dd class="col-sm-9">@Html.DisplayFor(model => model.Name)</dd>
+
+           <dt class="col-sm-3">Description</dt>
+       <dd class="col-sm-9">@Html.DisplayFor(model => model.Description)</dd>
+ </dl>
+        </div>
+   </div>
+
+        <form asp-action="Delete" method="post" class="d-inline">
+    <input type="hidden" asp-for="Id" />
+    <div class="d-grid gap-2 d-sm-flex justify-content-sm-end">
+         <button type="submit" class="btn btn-danger">Confirm Delete</button>
+          <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+    </div>
+            </form>
+        </div>
+    </div>
+</div>
+

@@ -1,0 +1,60 @@
+﻿@model Online_Shop_API.BLL.Dtos.OrderDetailDto
+
+@{
+    ViewData["Title"] = "Order Detail Details";
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <h1 class="mb-4">Order Detail Details</h1>
+
+            <div class="card mb-4">
+                <div class="card-header bg-primary text-white">
+                    <h5 class="mb-0">Order Detail Information</h5>
+                </div>
+                <div class="card-body">
+                    <dl class="row">
+                        <dt class="col-sm-3">ID</dt>
+                        <dd class="col-sm-9">@Html.DisplayFor(model => model.Id)</dd>
+
+                        <dt class="col-sm-3">Order ID</dt>
+                        <dd class="col-sm-9">
+                            <span class="badge bg-info">@Html.DisplayFor(model => model.OrderId)</span>
+                        </dd>
+
+                        <dt class="col-sm-3">Product ID</dt>
+                        <dd class="col-sm-9">
+                            <span class="badge bg-info">@Html.DisplayFor(model => model.ProductId)</span>
+                        </dd>
+
+                        <dt class="col-sm-3">Quantity</dt>
+                        <dd class="col-sm-9">
+                            <span class="badge bg-secondary">@Html.DisplayFor(model => model.Quantity)</span>
+                        </dd>
+
+                        <dt class="col-sm-3">Price</dt>
+                        <dd class="col-sm-9">
+                            <span class="badge bg-success">$@Html.DisplayFor(model => model.Price)</span>
+                        </dd>
+
+                        <dt class="col-sm-3">Total</dt>
+                        <dd class="col-sm-9">
+                            @{
+                                decimal total = Model.Quantity * Model.Price;
+                            }
+                            <span class="badge bg-primary">$@total.ToString("F2")</span>
+                        </dd>
+                    </dl>
+                </div>
+            </div>
+
+            <div class="d-grid gap-2 d-sm-flex justify-content-sm-end">
+                <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning">Edit</a>
+                <a asp-action="Delete" asp-route-id="@Model.Id" class="btn btn-danger">Delete</a>
+                <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+            </div>
+        </div>
+    </div>
+</div>
+

@@ -1,0 +1,1241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10F80D3F-E9AD-49DF-B94E-4165A9C3C37B}|Online_Shop_API.UI\\Online_Shop_API.UI.csproj|c:\\users\\acer\\documents\\code academy\\online_shop_api\\solution1\\online_shop_api.ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10F80D3F-E9AD-49DF-B94E-4165A9C3C37B}|Online_Shop_API.UI\\Online_Shop_API.UI.csproj|solutionrelative:online_shop_api.ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10F80D3F-E9AD-49DF-B94E-4165A9C3C37B}|Online_Shop_API.UI\\Online_Shop_API.UI.csproj|c:\\users\\acer\\documents\\code academy\\online_shop_api\\solution1\\online_shop_api.ui\\views\\orderdetail\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10F80D3F-E9AD-49DF-B94E-4165A9C3C37B}|Online_Shop_API.UI\\Online_Shop_API.UI.csproj|solutionrelative:online_shop_api.ui\\views\\orderdetail\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10F80D3F-E9AD-49DF-B94E-4165A9C3C37B}|Online_Shop_API.UI\\Online_Shop_API.UI.csproj|c:\\users\\acer\\documents\\code academy\\online_shop_api\\solution1\\online_shop_api.ui\\controllers\\orderdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10F80D3F-E9AD-49DF-B94E-4165A9C3C37B}|Online_Shop_API.UI\\Online_Shop_API.UI.csproj|solutionrelative:online_shop_api.ui\\controllers\\orderdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10F80D3F-E9AD-49DF-B94E-4165A9C3C37B}|Online_Shop_API.UI\\Online_Shop_API.UI.csproj|c:\\users\\acer\\documents\\code academy\\online_shop_api\\solution1\\online_shop_api.ui\\views\\orderdetail\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10F80D3F-E9AD-49DF-B94E-4165A9C3C37B}|Online_Shop_API.UI\\Online_Shop_API.UI.csproj|solutionrelative:online_shop_api.ui\\views\\orderdetail\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10F80D3F-E9AD-49DF-B94E-4165A9C3C37B}|Online_Shop_API.UI\\Online_Shop_API.UI.csproj|c:\\users\\acer\\documents\\code academy\\online_shop_api\\solution1\\online_shop_api.ui\\views\\orderdetail\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10F80D3F-E9AD-49DF-B94E-4165A9C3C37B}|Online_Shop_API.UI\\Online_Shop_API.UI.csproj|solutionrelative:online_shop_api.ui\\views\\orderdetail\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10F80D3F-E9AD-49DF-B94E-4165A9C3C37B}|Online_Shop_API.UI\\Online_Shop_API.UI.csproj|c:\\users\\acer\\documents\\code academy\\online_shop_api\\solution1\\online_shop_api.ui\\views\\orderdetail\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10F80D3F-E9AD-49DF-B94E-4165A9C3C37B}|Online_Shop_API.UI\\Online_Shop_API.UI.csproj|solutionrelative:online_shop_api.ui\\views\\orderdetail\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10F80D3F-E9AD-49DF-B94E-4165A9C3C37B}|Online_Shop_API.UI\\Online_Shop_API.UI.csproj|c:\\users\\acer\\documents\\code academy\\online_shop_api\\solution1\\online_shop_api.ui\\views\\orderdetail\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10F80D3F-E9AD-49DF-B94E-4165A9C3C37B}|Online_Shop_API.UI\\Online_Shop_API.UI.csproj|solutionrelative:online_shop_api.ui\\views\\orderdetail\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10F80D3F-E9AD-49DF-B94E-4165A9C3C37B}|Online_Shop_API.UI\\Online_Shop_API.UI.csproj|c:\\users\\acer\\documents\\code academy\\online_shop_api\\solution1\\online_shop_api.ui\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10F80D3F-E9AD-49DF-B94E-4165A9C3C37B}|Online_Shop_API.UI\\Online_Shop_API.UI.csproj|solutionrelative:online_shop_api.ui\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10F80D3F-E9AD-49DF-B94E-4165A9C3C37B}|Online_Shop_API.UI\\Online_Shop_API.UI.csproj|c:\\users\\acer\\documents\\code academy\\online_shop_api\\solution1\\online_shop_api.ui\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10F80D3F-E9AD-49DF-B94E-4165A9C3C37B}|Online_Shop_API.UI\\Online_Shop_API.UI.csproj|solutionrelative:online_shop_api.ui\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10F80D3F-E9AD-49DF-B94E-4165A9C3C37B}|Online_Shop_API.UI\\Online_Shop_API.UI.csproj|c:\\users\\acer\\documents\\code academy\\online_shop_api\\solution1\\online_shop_api.ui\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10F80D3F-E9AD-49DF-B94E-4165A9C3C37B}|Online_Shop_API.UI\\Online_Shop_API.UI.csproj|solutionrelative:online_shop_api.ui\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10F80D3F-E9AD-49DF-B94E-4165A9C3C37B}|Online_Shop_API.UI\\Online_Shop_API.UI.csproj|c:\\users\\acer\\documents\\code academy\\online_shop_api\\solution1\\online_shop_api.ui\\views\\order\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10F80D3F-E9AD-49DF-B94E-4165A9C3C37B}|Online_Shop_API.UI\\Online_Shop_API.UI.csproj|solutionrelative:online_shop_api.ui\\views\\order\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10F80D3F-E9AD-49DF-B94E-4165A9C3C37B}|Online_Shop_API.UI\\Online_Shop_API.UI.csproj|c:\\users\\acer\\documents\\code academy\\online_shop_api\\solution1\\online_shop_api.ui\\views\\order\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10F80D3F-E9AD-49DF-B94E-4165A9C3C37B}|Online_Shop_API.UI\\Online_Shop_API.UI.csproj|solutionrelative:online_shop_api.ui\\views\\order\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10F80D3F-E9AD-49DF-B94E-4165A9C3C37B}|Online_Shop_API.UI\\Online_Shop_API.UI.csproj|c:\\users\\acer\\documents\\code academy\\online_shop_api\\solution1\\online_shop_api.ui\\views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10F80D3F-E9AD-49DF-B94E-4165A9C3C37B}|Online_Shop_API.UI\\Online_Shop_API.UI.csproj|solutionrelative:online_shop_api.ui\\views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10F80D3F-E9AD-49DF-B94E-4165A9C3C37B}|Online_Shop_API.UI\\Online_Shop_API.UI.csproj|c:\\users\\acer\\documents\\code academy\\online_shop_api\\solution1\\online_shop_api.ui\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10F80D3F-E9AD-49DF-B94E-4165A9C3C37B}|Online_Shop_API.UI\\Online_Shop_API.UI.csproj|solutionrelative:online_shop_api.ui\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10F80D3F-E9AD-49DF-B94E-4165A9C3C37B}|Online_Shop_API.UI\\Online_Shop_API.UI.csproj|c:\\users\\acer\\documents\\code academy\\online_shop_api\\solution1\\online_shop_api.ui\\views\\category\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10F80D3F-E9AD-49DF-B94E-4165A9C3C37B}|Online_Shop_API.UI\\Online_Shop_API.UI.csproj|solutionrelative:online_shop_api.ui\\views\\category\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10F80D3F-E9AD-49DF-B94E-4165A9C3C37B}|Online_Shop_API.UI\\Online_Shop_API.UI.csproj|c:\\users\\acer\\documents\\code academy\\online_shop_api\\solution1\\online_shop_api.ui\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10F80D3F-E9AD-49DF-B94E-4165A9C3C37B}|Online_Shop_API.UI\\Online_Shop_API.UI.csproj|solutionrelative:online_shop_api.ui\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10F80D3F-E9AD-49DF-B94E-4165A9C3C37B}|Online_Shop_API.UI\\Online_Shop_API.UI.csproj|c:\\users\\acer\\documents\\code academy\\online_shop_api\\solution1\\online_shop_api.ui\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10F80D3F-E9AD-49DF-B94E-4165A9C3C37B}|Online_Shop_API.UI\\Online_Shop_API.UI.csproj|solutionrelative:online_shop_api.ui\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10F80D3F-E9AD-49DF-B94E-4165A9C3C37B}|Online_Shop_API.UI\\Online_Shop_API.UI.csproj|c:\\users\\acer\\documents\\code academy\\online_shop_api\\solution1\\online_shop_api.ui\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10F80D3F-E9AD-49DF-B94E-4165A9C3C37B}|Online_Shop_API.UI\\Online_Shop_API.UI.csproj|solutionrelative:online_shop_api.ui\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10F80D3F-E9AD-49DF-B94E-4165A9C3C37B}|Online_Shop_API.UI\\Online_Shop_API.UI.csproj|c:\\users\\acer\\documents\\code academy\\online_shop_api\\solution1\\online_shop_api.ui\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10F80D3F-E9AD-49DF-B94E-4165A9C3C37B}|Online_Shop_API.UI\\Online_Shop_API.UI.csproj|solutionrelative:online_shop_api.ui\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10F80D3F-E9AD-49DF-B94E-4165A9C3C37B}|Online_Shop_API.UI\\Online_Shop_API.UI.csproj|c:\\users\\acer\\documents\\code academy\\online_shop_api\\solution1\\online_shop_api.ui\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10F80D3F-E9AD-49DF-B94E-4165A9C3C37B}|Online_Shop_API.UI\\Online_Shop_API.UI.csproj|solutionrelative:online_shop_api.ui\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10F80D3F-E9AD-49DF-B94E-4165A9C3C37B}|Online_Shop_API.UI\\Online_Shop_API.UI.csproj|c:\\users\\acer\\documents\\code academy\\online_shop_api\\solution1\\online_shop_api.ui\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10F80D3F-E9AD-49DF-B94E-4165A9C3C37B}|Online_Shop_API.UI\\Online_Shop_API.UI.csproj|solutionrelative:online_shop_api.ui\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10F80D3F-E9AD-49DF-B94E-4165A9C3C37B}|Online_Shop_API.UI\\Online_Shop_API.UI.csproj|c:\\users\\acer\\documents\\code academy\\online_shop_api\\solution1\\online_shop_api.ui\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10F80D3F-E9AD-49DF-B94E-4165A9C3C37B}|Online_Shop_API.UI\\Online_Shop_API.UI.csproj|solutionrelative:online_shop_api.ui\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10F80D3F-E9AD-49DF-B94E-4165A9C3C37B}|Online_Shop_API.UI\\Online_Shop_API.UI.csproj|c:\\users\\acer\\documents\\code academy\\online_shop_api\\solution1\\online_shop_api.ui\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10F80D3F-E9AD-49DF-B94E-4165A9C3C37B}|Online_Shop_API.UI\\Online_Shop_API.UI.csproj|solutionrelative:online_shop_api.ui\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10F80D3F-E9AD-49DF-B94E-4165A9C3C37B}|Online_Shop_API.UI\\Online_Shop_API.UI.csproj|c:\\users\\acer\\documents\\code academy\\online_shop_api\\solution1\\online_shop_api.ui\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10F80D3F-E9AD-49DF-B94E-4165A9C3C37B}|Online_Shop_API.UI\\Online_Shop_API.UI.csproj|solutionrelative:online_shop_api.ui\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10F80D3F-E9AD-49DF-B94E-4165A9C3C37B}|Online_Shop_API.UI\\Online_Shop_API.UI.csproj|c:\\users\\acer\\documents\\code academy\\online_shop_api\\solution1\\online_shop_api.ui\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10F80D3F-E9AD-49DF-B94E-4165A9C3C37B}|Online_Shop_API.UI\\Online_Shop_API.UI.csproj|solutionrelative:online_shop_api.ui\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10F80D3F-E9AD-49DF-B94E-4165A9C3C37B}|Online_Shop_API.UI\\Online_Shop_API.UI.csproj|c:\\users\\acer\\documents\\code academy\\online_shop_api\\solution1\\online_shop_api.ui\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10F80D3F-E9AD-49DF-B94E-4165A9C3C37B}|Online_Shop_API.UI\\Online_Shop_API.UI.csproj|solutionrelative:online_shop_api.ui\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10F80D3F-E9AD-49DF-B94E-4165A9C3C37B}|Online_Shop_API.UI\\Online_Shop_API.UI.csproj|c:\\users\\acer\\documents\\code academy\\online_shop_api\\solution1\\online_shop_api.ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10F80D3F-E9AD-49DF-B94E-4165A9C3C37B}|Online_Shop_API.UI\\Online_Shop_API.UI.csproj|solutionrelative:online_shop_api.ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10F80D3F-E9AD-49DF-B94E-4165A9C3C37B}|Online_Shop_API.UI\\Online_Shop_API.UI.csproj|c:\\users\\acer\\documents\\code academy\\online_shop_api\\solution1\\online_shop_api.ui\\views\\customer\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10F80D3F-E9AD-49DF-B94E-4165A9C3C37B}|Online_Shop_API.UI\\Online_Shop_API.UI.csproj|solutionrelative:online_shop_api.ui\\views\\customer\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10F80D3F-E9AD-49DF-B94E-4165A9C3C37B}|Online_Shop_API.UI\\Online_Shop_API.UI.csproj|c:\\users\\acer\\documents\\code academy\\online_shop_api\\solution1\\online_shop_api.ui\\views\\customer\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10F80D3F-E9AD-49DF-B94E-4165A9C3C37B}|Online_Shop_API.UI\\Online_Shop_API.UI.csproj|solutionrelative:online_shop_api.ui\\views\\customer\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10F80D3F-E9AD-49DF-B94E-4165A9C3C37B}|Online_Shop_API.UI\\Online_Shop_API.UI.csproj|c:\\users\\acer\\documents\\code academy\\online_shop_api\\solution1\\online_shop_api.ui\\views\\customer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10F80D3F-E9AD-49DF-B94E-4165A9C3C37B}|Online_Shop_API.UI\\Online_Shop_API.UI.csproj|solutionrelative:online_shop_api.ui\\views\\customer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10F80D3F-E9AD-49DF-B94E-4165A9C3C37B}|Online_Shop_API.UI\\Online_Shop_API.UI.csproj|c:\\users\\acer\\documents\\code academy\\online_shop_api\\solution1\\online_shop_api.ui\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10F80D3F-E9AD-49DF-B94E-4165A9C3C37B}|Online_Shop_API.UI\\Online_Shop_API.UI.csproj|solutionrelative:online_shop_api.ui\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10F80D3F-E9AD-49DF-B94E-4165A9C3C37B}|Online_Shop_API.UI\\Online_Shop_API.UI.csproj|c:\\users\\acer\\documents\\code academy\\online_shop_api\\solution1\\online_shop_api.ui\\views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10F80D3F-E9AD-49DF-B94E-4165A9C3C37B}|Online_Shop_API.UI\\Online_Shop_API.UI.csproj|solutionrelative:online_shop_api.ui\\views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF9F3AA-66EB-4433-B4A7-D2526FFF15B1}|Online_Shop_API.BLL\\Online_Shop_API.BLL.csproj|c:\\users\\acer\\documents\\code academy\\online_shop_api\\solution1\\online_shop_api.bll\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF9F3AA-66EB-4433-B4A7-D2526FFF15B1}|Online_Shop_API.BLL\\Online_Shop_API.BLL.csproj|solutionrelative:online_shop_api.bll\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFC3A47-DA41-4ABE-B856-20C66A26C91B}|Online_Shop_API.DAL\\Online_Shop_API.DAL.csproj|c:\\users\\acer\\documents\\code academy\\online_shop_api\\solution1\\online_shop_api.dal\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEFC3A47-DA41-4ABE-B856-20C66A26C91B}|Online_Shop_API.DAL\\Online_Shop_API.DAL.csproj|solutionrelative:online_shop_api.dal\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF9F3AA-66EB-4433-B4A7-D2526FFF15B1}|Online_Shop_API.BLL\\Online_Shop_API.BLL.csproj|c:\\users\\acer\\documents\\code academy\\online_shop_api\\solution1\\online_shop_api.bll\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF9F3AA-66EB-4433-B4A7-D2526FFF15B1}|Online_Shop_API.BLL\\Online_Shop_API.BLL.csproj|solutionrelative:online_shop_api.bll\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFC3A47-DA41-4ABE-B856-20C66A26C91B}|Online_Shop_API.DAL\\Online_Shop_API.DAL.csproj|c:\\users\\acer\\documents\\code academy\\online_shop_api\\solution1\\online_shop_api.dal\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEFC3A47-DA41-4ABE-B856-20C66A26C91B}|Online_Shop_API.DAL\\Online_Shop_API.DAL.csproj|solutionrelative:online_shop_api.dal\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFC3A47-DA41-4ABE-B856-20C66A26C91B}|Online_Shop_API.DAL\\Online_Shop_API.DAL.csproj|c:\\users\\acer\\documents\\code academy\\online_shop_api\\solution1\\online_shop_api.dal\\enums\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEFC3A47-DA41-4ABE-B856-20C66A26C91B}|Online_Shop_API.DAL\\Online_Shop_API.DAL.csproj|solutionrelative:online_shop_api.dal\\enums\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFC3A47-DA41-4ABE-B856-20C66A26C91B}|Online_Shop_API.DAL\\Online_Shop_API.DAL.csproj|c:\\users\\acer\\documents\\code academy\\online_shop_api\\solution1\\online_shop_api.dal\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEFC3A47-DA41-4ABE-B856-20C66A26C91B}|Online_Shop_API.DAL\\Online_Shop_API.DAL.csproj|solutionrelative:online_shop_api.dal\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF9F3AA-66EB-4433-B4A7-D2526FFF15B1}|Online_Shop_API.BLL\\Online_Shop_API.BLL.csproj|c:\\users\\acer\\documents\\code academy\\online_shop_api\\solution1\\online_shop_api.bll\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF9F3AA-66EB-4433-B4A7-D2526FFF15B1}|Online_Shop_API.BLL\\Online_Shop_API.BLL.csproj|solutionrelative:online_shop_api.bll\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF9F3AA-66EB-4433-B4A7-D2526FFF15B1}|Online_Shop_API.BLL\\Online_Shop_API.BLL.csproj|c:\\users\\acer\\documents\\code academy\\online_shop_api\\solution1\\online_shop_api.bll\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF9F3AA-66EB-4433-B4A7-D2526FFF15B1}|Online_Shop_API.BLL\\Online_Shop_API.BLL.csproj|solutionrelative:online_shop_api.bll\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF9F3AA-66EB-4433-B4A7-D2526FFF15B1}|Online_Shop_API.BLL\\Online_Shop_API.BLL.csproj|c:\\users\\acer\\documents\\code academy\\online_shop_api\\solution1\\online_shop_api.bll\\services\\orderdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF9F3AA-66EB-4433-B4A7-D2526FFF15B1}|Online_Shop_API.BLL\\Online_Shop_API.BLL.csproj|solutionrelative:online_shop_api.bll\\services\\orderdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF9F3AA-66EB-4433-B4A7-D2526FFF15B1}|Online_Shop_API.BLL\\Online_Shop_API.BLL.csproj|c:\\users\\acer\\documents\\code academy\\online_shop_api\\solution1\\online_shop_api.bll\\services\\costomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF9F3AA-66EB-4433-B4A7-D2526FFF15B1}|Online_Shop_API.BLL\\Online_Shop_API.BLL.csproj|solutionrelative:online_shop_api.bll\\services\\costomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BB2179-52FA-47F5-B664-313C65249B2B}|Online_Shop_API.WebAPI\\Online_Shop_API.WebAPI.csproj|c:\\users\\acer\\documents\\code academy\\online_shop_api\\solution1\\online_shop_api.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BB2179-52FA-47F5-B664-313C65249B2B}|Online_Shop_API.WebAPI\\Online_Shop_API.WebAPI.csproj|solutionrelative:online_shop_api.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BB2179-52FA-47F5-B664-313C65249B2B}|Online_Shop_API.WebAPI\\Online_Shop_API.WebAPI.csproj|c:\\users\\acer\\documents\\code academy\\online_shop_api\\solution1\\online_shop_api.webapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BB2179-52FA-47F5-B664-313C65249B2B}|Online_Shop_API.WebAPI\\Online_Shop_API.WebAPI.csproj|solutionrelative:online_shop_api.webapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFC3A47-DA41-4ABE-B856-20C66A26C91B}|Online_Shop_API.DAL\\Online_Shop_API.DAL.csproj|c:\\users\\acer\\documents\\code academy\\online_shop_api\\solution1\\online_shop_api.dal\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEFC3A47-DA41-4ABE-B856-20C66A26C91B}|Online_Shop_API.DAL\\Online_Shop_API.DAL.csproj|solutionrelative:online_shop_api.dal\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF9F3AA-66EB-4433-B4A7-D2526FFF15B1}|Online_Shop_API.BLL\\Online_Shop_API.BLL.csproj|c:\\users\\acer\\documents\\code academy\\online_shop_api\\solution1\\online_shop_api.bll\\services\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF9F3AA-66EB-4433-B4A7-D2526FFF15B1}|Online_Shop_API.BLL\\Online_Shop_API.BLL.csproj|solutionrelative:online_shop_api.bll\\services\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF9F3AA-66EB-4433-B4A7-D2526FFF15B1}|Online_Shop_API.BLL\\Online_Shop_API.BLL.csproj|c:\\users\\acer\\documents\\code academy\\online_shop_api\\solution1\\online_shop_api.bll\\services\\interfaces\\iorderdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF9F3AA-66EB-4433-B4A7-D2526FFF15B1}|Online_Shop_API.BLL\\Online_Shop_API.BLL.csproj|solutionrelative:online_shop_api.bll\\services\\interfaces\\iorderdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFC3A47-DA41-4ABE-B856-20C66A26C91B}|Online_Shop_API.DAL\\Online_Shop_API.DAL.csproj|c:\\users\\acer\\documents\\code academy\\online_shop_api\\solution1\\online_shop_api.dal\\repositories\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEFC3A47-DA41-4ABE-B856-20C66A26C91B}|Online_Shop_API.DAL\\Online_Shop_API.DAL.csproj|solutionrelative:online_shop_api.dal\\repositories\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF9F3AA-66EB-4433-B4A7-D2526FFF15B1}|Online_Shop_API.BLL\\Online_Shop_API.BLL.csproj|c:\\users\\acer\\documents\\code academy\\online_shop_api\\solution1\\online_shop_api.bll\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF9F3AA-66EB-4433-B4A7-D2526FFF15B1}|Online_Shop_API.BLL\\Online_Shop_API.BLL.csproj|solutionrelative:online_shop_api.bll\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF9F3AA-66EB-4433-B4A7-D2526FFF15B1}|Online_Shop_API.BLL\\Online_Shop_API.BLL.csproj|c:\\users\\acer\\documents\\code academy\\online_shop_api\\solution1\\online_shop_api.bll\\services\\interfaces\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF9F3AA-66EB-4433-B4A7-D2526FFF15B1}|Online_Shop_API.BLL\\Online_Shop_API.BLL.csproj|solutionrelative:online_shop_api.bll\\services\\interfaces\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF9F3AA-66EB-4433-B4A7-D2526FFF15B1}|Online_Shop_API.BLL\\Online_Shop_API.BLL.csproj|c:\\users\\acer\\documents\\code academy\\online_shop_api\\solution1\\online_shop_api.bll\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF9F3AA-66EB-4433-B4A7-D2526FFF15B1}|Online_Shop_API.BLL\\Online_Shop_API.BLL.csproj|solutionrelative:online_shop_api.bll\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BB2179-52FA-47F5-B664-313C65249B2B}|Online_Shop_API.WebAPI\\Online_Shop_API.WebAPI.csproj|c:\\users\\acer\\documents\\code academy\\online_shop_api\\solution1\\online_shop_api.webapi\\controllers\\orderdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BB2179-52FA-47F5-B664-313C65249B2B}|Online_Shop_API.WebAPI\\Online_Shop_API.WebAPI.csproj|solutionrelative:online_shop_api.webapi\\controllers\\orderdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BB2179-52FA-47F5-B664-313C65249B2B}|Online_Shop_API.WebAPI\\Online_Shop_API.WebAPI.csproj|c:\\users\\acer\\documents\\code academy\\online_shop_api\\solution1\\online_shop_api.webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BB2179-52FA-47F5-B664-313C65249B2B}|Online_Shop_API.WebAPI\\Online_Shop_API.WebAPI.csproj|solutionrelative:online_shop_api.webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BB2179-52FA-47F5-B664-313C65249B2B}|Online_Shop_API.WebAPI\\Online_Shop_API.WebAPI.csproj|c:\\users\\acer\\documents\\code academy\\online_shop_api\\solution1\\online_shop_api.webapi\\controllers\\categoryscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BB2179-52FA-47F5-B664-313C65249B2B}|Online_Shop_API.WebAPI\\Online_Shop_API.WebAPI.csproj|solutionrelative:online_shop_api.webapi\\controllers\\categoryscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BB2179-52FA-47F5-B664-313C65249B2B}|Online_Shop_API.WebAPI\\Online_Shop_API.WebAPI.csproj|c:\\users\\acer\\documents\\code academy\\online_shop_api\\solution1\\online_shop_api.webapi\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BB2179-52FA-47F5-B664-313C65249B2B}|Online_Shop_API.WebAPI\\Online_Shop_API.WebAPI.csproj|solutionrelative:online_shop_api.webapi\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10F80D3F-E9AD-49DF-B94E-4165A9C3C37B}|Online_Shop_API.UI\\Online_Shop_API.UI.csproj|c:\\users\\acer\\documents\\code academy\\online_shop_api\\solution1\\online_shop_api.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10F80D3F-E9AD-49DF-B94E-4165A9C3C37B}|Online_Shop_API.UI\\Online_Shop_API.UI.csproj|solutionrelative:online_shop_api.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BB2179-52FA-47F5-B664-313C65249B2B}|Online_Shop_API.WebAPI\\Online_Shop_API.WebAPI.csproj|c:\\users\\acer\\documents\\code academy\\online_shop_api\\solution1\\online_shop_api.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{93BB2179-52FA-47F5-B664-313C65249B2B}|Online_Shop_API.WebAPI\\Online_Shop_API.WebAPI.csproj|solutionrelative:online_shop_api.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10F80D3F-E9AD-49DF-B94E-4165A9C3C37B}|Online_Shop_API.UI\\Online_Shop_API.UI.csproj|c:\\users\\acer\\documents\\code academy\\online_shop_api\\solution1\\online_shop_api.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{10F80D3F-E9AD-49DF-B94E-4165A9C3C37B}|Online_Shop_API.UI\\Online_Shop_API.UI.csproj|solutionrelative:online_shop_api.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFC3A47-DA41-4ABE-B856-20C66A26C91B}|Online_Shop_API.DAL\\Online_Shop_API.DAL.csproj|c:\\users\\acer\\documents\\code academy\\online_shop_api\\solution1\\online_shop_api.dal\\repositories\\interfaces\\iorderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEFC3A47-DA41-4ABE-B856-20C66A26C91B}|Online_Shop_API.DAL\\Online_Shop_API.DAL.csproj|solutionrelative:online_shop_api.dal\\repositories\\interfaces\\iorderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF9F3AA-66EB-4433-B4A7-D2526FFF15B1}|Online_Shop_API.BLL\\Online_Shop_API.BLL.csproj|c:\\users\\acer\\documents\\code academy\\online_shop_api\\solution1\\online_shop_api.bll\\mapper\\customprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF9F3AA-66EB-4433-B4A7-D2526FFF15B1}|Online_Shop_API.BLL\\Online_Shop_API.BLL.csproj|solutionrelative:online_shop_api.bll\\mapper\\customprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF9F3AA-66EB-4433-B4A7-D2526FFF15B1}|Online_Shop_API.BLL\\Online_Shop_API.BLL.csproj|c:\\users\\acer\\documents\\code academy\\online_shop_api\\solution1\\online_shop_api.bll\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF9F3AA-66EB-4433-B4A7-D2526FFF15B1}|Online_Shop_API.BLL\\Online_Shop_API.BLL.csproj|solutionrelative:online_shop_api.bll\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF9F3AA-66EB-4433-B4A7-D2526FFF15B1}|Online_Shop_API.BLL\\Online_Shop_API.BLL.csproj|c:\\users\\acer\\documents\\code academy\\online_shop_api\\solution1\\online_shop_api.bll\\dtos\\orderdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF9F3AA-66EB-4433-B4A7-D2526FFF15B1}|Online_Shop_API.BLL\\Online_Shop_API.BLL.csproj|solutionrelative:online_shop_api.bll\\dtos\\orderdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFC3A47-DA41-4ABE-B856-20C66A26C91B}|Online_Shop_API.DAL\\Online_Shop_API.DAL.csproj|c:\\users\\acer\\documents\\code academy\\online_shop_api\\solution1\\online_shop_api.dal\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEFC3A47-DA41-4ABE-B856-20C66A26C91B}|Online_Shop_API.DAL\\Online_Shop_API.DAL.csproj|solutionrelative:online_shop_api.dal\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF9F3AA-66EB-4433-B4A7-D2526FFF15B1}|Online_Shop_API.BLL\\Online_Shop_API.BLL.csproj|c:\\users\\acer\\documents\\code academy\\online_shop_api\\solution1\\online_shop_api.bll\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF9F3AA-66EB-4433-B4A7-D2526FFF15B1}|Online_Shop_API.BLL\\Online_Shop_API.BLL.csproj|solutionrelative:online_shop_api.bll\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFC3A47-DA41-4ABE-B856-20C66A26C91B}|Online_Shop_API.DAL\\Online_Shop_API.DAL.csproj|c:\\users\\acer\\documents\\code academy\\online_shop_api\\solution1\\online_shop_api.dal\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEFC3A47-DA41-4ABE-B856-20C66A26C91B}|Online_Shop_API.DAL\\Online_Shop_API.DAL.csproj|solutionrelative:online_shop_api.dal\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF9F3AA-66EB-4433-B4A7-D2526FFF15B1}|Online_Shop_API.BLL\\Online_Shop_API.BLL.csproj|c:\\users\\acer\\documents\\code academy\\online_shop_api\\solution1\\online_shop_api.bll\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF9F3AA-66EB-4433-B4A7-D2526FFF15B1}|Online_Shop_API.BLL\\Online_Shop_API.BLL.csproj|solutionrelative:online_shop_api.bll\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFC3A47-DA41-4ABE-B856-20C66A26C91B}|Online_Shop_API.DAL\\Online_Shop_API.DAL.csproj|c:\\users\\acer\\documents\\code academy\\online_shop_api\\solution1\\online_shop_api.dal\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEFC3A47-DA41-4ABE-B856-20C66A26C91B}|Online_Shop_API.DAL\\Online_Shop_API.DAL.csproj|solutionrelative:online_shop_api.dal\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFC3A47-DA41-4ABE-B856-20C66A26C91B}|Online_Shop_API.DAL\\Online_Shop_API.DAL.csproj|c:\\users\\acer\\documents\\code academy\\online_shop_api\\solution1\\online_shop_api.dal\\repositories\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEFC3A47-DA41-4ABE-B856-20C66A26C91B}|Online_Shop_API.DAL\\Online_Shop_API.DAL.csproj|solutionrelative:online_shop_api.dal\\repositories\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFC3A47-DA41-4ABE-B856-20C66A26C91B}|Online_Shop_API.DAL\\Online_Shop_API.DAL.csproj|c:\\users\\acer\\documents\\code academy\\online_shop_api\\solution1\\online_shop_api.dal\\repositories\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEFC3A47-DA41-4ABE-B856-20C66A26C91B}|Online_Shop_API.DAL\\Online_Shop_API.DAL.csproj|solutionrelative:online_shop_api.dal\\repositories\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFC3A47-DA41-4ABE-B856-20C66A26C91B}|Online_Shop_API.DAL\\Online_Shop_API.DAL.csproj|c:\\users\\acer\\documents\\code academy\\online_shop_api\\solution1\\online_shop_api.dal\\repositories\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEFC3A47-DA41-4ABE-B856-20C66A26C91B}|Online_Shop_API.DAL\\Online_Shop_API.DAL.csproj|solutionrelative:online_shop_api.dal\\repositories\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFC3A47-DA41-4ABE-B856-20C66A26C91B}|Online_Shop_API.DAL\\Online_Shop_API.DAL.csproj|c:\\users\\acer\\documents\\code academy\\online_shop_api\\solution1\\online_shop_api.dal\\repositories\\interfaces\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEFC3A47-DA41-4ABE-B856-20C66A26C91B}|Online_Shop_API.DAL\\Online_Shop_API.DAL.csproj|solutionrelative:online_shop_api.dal\\repositories\\interfaces\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFC3A47-DA41-4ABE-B856-20C66A26C91B}|Online_Shop_API.DAL\\Online_Shop_API.DAL.csproj|c:\\users\\acer\\documents\\code academy\\online_shop_api\\solution1\\online_shop_api.dal\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEFC3A47-DA41-4ABE-B856-20C66A26C91B}|Online_Shop_API.DAL\\Online_Shop_API.DAL.csproj|solutionrelative:online_shop_api.dal\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFC3A47-DA41-4ABE-B856-20C66A26C91B}|Online_Shop_API.DAL\\Online_Shop_API.DAL.csproj|c:\\users\\acer\\documents\\code academy\\online_shop_api\\solution1\\online_shop_api.dal\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEFC3A47-DA41-4ABE-B856-20C66A26C91B}|Online_Shop_API.DAL\\Online_Shop_API.DAL.csproj|solutionrelative:online_shop_api.dal\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFC3A47-DA41-4ABE-B856-20C66A26C91B}|Online_Shop_API.DAL\\Online_Shop_API.DAL.csproj|c:\\users\\acer\\documents\\code academy\\online_shop_api\\solution1\\online_shop_api.dal\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEFC3A47-DA41-4ABE-B856-20C66A26C91B}|Online_Shop_API.DAL\\Online_Shop_API.DAL.csproj|solutionrelative:online_shop_api.dal\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFC3A47-DA41-4ABE-B856-20C66A26C91B}|Online_Shop_API.DAL\\Online_Shop_API.DAL.csproj|c:\\users\\acer\\documents\\code academy\\online_shop_api\\solution1\\online_shop_api.dal\\migrations\\20260604160500_addsurnametocustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEFC3A47-DA41-4ABE-B856-20C66A26C91B}|Online_Shop_API.DAL\\Online_Shop_API.DAL.csproj|solutionrelative:online_shop_api.dal\\migrations\\20260604160500_addsurnametocustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFC3A47-DA41-4ABE-B856-20C66A26C91B}|Online_Shop_API.DAL\\Online_Shop_API.DAL.csproj|c:\\users\\acer\\documents\\code academy\\online_shop_api\\solution1\\online_shop_api.dal\\migrations\\20260604124156_initialdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEFC3A47-DA41-4ABE-B856-20C66A26C91B}|Online_Shop_API.DAL\\Online_Shop_API.DAL.csproj|solutionrelative:online_shop_api.dal\\migrations\\20260604124156_initialdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.UI\\Views\\OrderDetail\\Details.cshtml",
+              "RelativeDocumentMoniker": "Online_Shop_API.UI\\Views\\OrderDetail\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.UI\\Views\\OrderDetail\\Details.cshtml",
+              "RelativeToolTip": "Online_Shop_API.UI\\Views\\OrderDetail\\Details.cshtml",
+              "ViewState": "AgIAACAAAAAAAAAAAAAUwDcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-05T16:48:00.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.UI\\Views\\OrderDetail\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Online_Shop_API.UI\\Views\\OrderDetail\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.UI\\Views\\OrderDetail\\Delete.cshtml",
+              "RelativeToolTip": "Online_Shop_API.UI\\Views\\OrderDetail\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-05T16:46:53.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.UI\\Views\\OrderDetail\\Index.cshtml",
+              "RelativeDocumentMoniker": "Online_Shop_API.UI\\Views\\OrderDetail\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.UI\\Views\\OrderDetail\\Index.cshtml",
+              "RelativeToolTip": "Online_Shop_API.UI\\Views\\OrderDetail\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-05T16:40:40.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderDetailController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.UI\\Controllers\\OrderDetailController.cs",
+              "RelativeDocumentMoniker": "Online_Shop_API.UI\\Controllers\\OrderDetailController.cs",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.UI\\Controllers\\OrderDetailController.cs",
+              "RelativeToolTip": "Online_Shop_API.UI\\Controllers\\OrderDetailController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAuwGEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T16:36:17.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.UI\\Views\\Order\\Details.cshtml",
+              "RelativeDocumentMoniker": "Online_Shop_API.UI\\Views\\Order\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.UI\\Views\\Order\\Details.cshtml",
+              "RelativeToolTip": "Online_Shop_API.UI\\Views\\Order\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-05T16:31:52.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.UI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Online_Shop_API.UI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.UI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Online_Shop_API.UI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAACDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-05T15:34:01.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.UI\\Views\\OrderDetail\\Create.cshtml",
+              "RelativeDocumentMoniker": "Online_Shop_API.UI\\Views\\OrderDetail\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.UI\\Views\\OrderDetail\\Create.cshtml",
+              "RelativeToolTip": "Online_Shop_API.UI\\Views\\OrderDetail\\Create.cshtml",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAACQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-05T16:43:22.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.UI\\Views\\OrderDetail\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Online_Shop_API.UI\\Views\\OrderDetail\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.UI\\Views\\OrderDetail\\Edit.cshtml",
+              "RelativeToolTip": "Online_Shop_API.UI\\Views\\OrderDetail\\Edit.cshtml",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-05T16:45:10.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.UI\\Views\\Order\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Online_Shop_API.UI\\Views\\Order\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.UI\\Views\\Order\\Edit.cshtml",
+              "RelativeToolTip": "Online_Shop_API.UI\\Views\\Order\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-05T16:28:38.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.UI\\Views\\Order\\Create.cshtml",
+              "RelativeDocumentMoniker": "Online_Shop_API.UI\\Views\\Order\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.UI\\Views\\Order\\Create.cshtml",
+              "RelativeToolTip": "Online_Shop_API.UI\\Views\\Order\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-05T16:26:32.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.UI\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "Online_Shop_API.UI\\Views\\Order\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.UI\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "Online_Shop_API.UI\\Views\\Order\\Index.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-05T16:25:30.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.UI\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Online_Shop_API.UI\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.UI\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Online_Shop_API.UI\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAFMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T16:27:05.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.UI\\Views\\Order\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Online_Shop_API.UI\\Views\\Order\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.UI\\Views\\Order\\Delete.cshtml",
+              "RelativeToolTip": "Online_Shop_API.UI\\Views\\Order\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-05T16:30:15.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.UI\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Online_Shop_API.UI\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.UI\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Online_Shop_API.UI\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAAwFsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T16:23:51.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.UI\\Views\\Category\\Details.cshtml",
+              "RelativeDocumentMoniker": "Online_Shop_API.UI\\Views\\Category\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.UI\\Views\\Category\\Details.cshtml",
+              "RelativeToolTip": "Online_Shop_API.UI\\Views\\Category\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-05T16:19:43.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.UI\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "Online_Shop_API.UI\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.UI\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "Online_Shop_API.UI\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-05T16:13:21.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.UI\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Online_Shop_API.UI\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.UI\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Online_Shop_API.UI\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAwwEsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T16:11:36.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.UI\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "Online_Shop_API.UI\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.UI\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "Online_Shop_API.UI\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-05T16:14:10.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.UI\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Online_Shop_API.UI\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.UI\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "Online_Shop_API.UI\\Views\\Category\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-05T16:16:35.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.UI\\Views\\Category\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Online_Shop_API.UI\\Views\\Category\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.UI\\Views\\Category\\Delete.cshtml",
+              "RelativeToolTip": "Online_Shop_API.UI\\Views\\Category\\Delete.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-05T16:18:32.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.UI\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Online_Shop_API.UI\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.UI\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Online_Shop_API.UI\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-05T15:55:43.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.UI\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Online_Shop_API.UI\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.UI\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Online_Shop_API.UI\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-05T15:54:59.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.UI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Online_Shop_API.UI\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.UI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Online_Shop_API.UI\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T15:52:28.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.UI\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Online_Shop_API.UI\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.UI\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "Online_Shop_API.UI\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-05T15:58:02.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.UI\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Online_Shop_API.UI\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.UI\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "Online_Shop_API.UI\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-05T15:59:20.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.UI\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "Online_Shop_API.UI\\Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.UI\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "Online_Shop_API.UI\\Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAAwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-05T16:00:28.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.UI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Online_Shop_API.UI\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.UI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Online_Shop_API.UI\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T15:52:06.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.UI\\Views\\Customer\\Details.cshtml",
+              "RelativeDocumentMoniker": "Online_Shop_API.UI\\Views\\Customer\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.UI\\Views\\Customer\\Details.cshtml",
+              "RelativeToolTip": "Online_Shop_API.UI\\Views\\Customer\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-05T15:49:45.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.UI\\Views\\Customer\\Create.cshtml",
+              "RelativeDocumentMoniker": "Online_Shop_API.UI\\Views\\Customer\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.UI\\Views\\Customer\\Create.cshtml",
+              "RelativeToolTip": "Online_Shop_API.UI\\Views\\Customer\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-05T15:31:19.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.UI\\Views\\Customer\\Index.cshtml",
+              "RelativeDocumentMoniker": "Online_Shop_API.UI\\Views\\Customer\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.UI\\Views\\Customer\\Index.cshtml",
+              "RelativeToolTip": "Online_Shop_API.UI\\Views\\Customer\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADUAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-04T16:30:49.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.UI\\Views\\Customer\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Online_Shop_API.UI\\Views\\Customer\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.UI\\Views\\Customer\\Edit.cshtml",
+              "RelativeToolTip": "Online_Shop_API.UI\\Views\\Customer\\Edit.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-05T15:41:23.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.UI\\Views\\Customer\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Online_Shop_API.UI\\Views\\Customer\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.UI\\Views\\Customer\\Delete.cshtml",
+              "RelativeToolTip": "Online_Shop_API.UI\\Views\\Customer\\Delete.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-05T15:45:03.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "20260604160500_AddSurnametoCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.DAL\\Migrations\\20260604160500_AddSurnametoCustomer.cs",
+              "RelativeDocumentMoniker": "Online_Shop_API.DAL\\Migrations\\20260604160500_AddSurnametoCustomer.cs",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.DAL\\Migrations\\20260604160500_AddSurnametoCustomer.cs",
+              "RelativeToolTip": "Online_Shop_API.DAL\\Migrations\\20260604160500_AddSurnametoCustomer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T16:05:00.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Online_Shop_API.WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.WebAPI\\Program.cs",
+              "RelativeToolTip": "Online_Shop_API.WebAPI\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAmwCoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T14:36:29.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.WebAPI\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Online_Shop_API.WebAPI\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.WebAPI\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Online_Shop_API.WebAPI\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwAMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T15:08:04.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.DAL\\Enums\\Status.cs",
+              "RelativeDocumentMoniker": "Online_Shop_API.DAL\\Enums\\Status.cs",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.DAL\\Enums\\Status.cs",
+              "RelativeToolTip": "Online_Shop_API.DAL\\Enums\\Status.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T12:20:32.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.DAL\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "Online_Shop_API.DAL\\Entities\\Customer.cs",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.DAL\\Entities\\Customer.cs",
+              "RelativeToolTip": "Online_Shop_API.DAL\\Entities\\Customer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAewAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T12:01:38.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.BLL\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Online_Shop_API.BLL\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.BLL\\Services\\CategoryService.cs",
+              "RelativeToolTip": "Online_Shop_API.BLL\\Services\\CategoryService.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAA5wAMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T13:57:32.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.DAL\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Online_Shop_API.DAL\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.DAL\\Entities\\Category.cs",
+              "RelativeToolTip": "Online_Shop_API.DAL\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T12:01:04.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CustomerDto.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.BLL\\Dtos\\CustomerDto.cs",
+              "RelativeDocumentMoniker": "Online_Shop_API.BLL\\Dtos\\CustomerDto.cs",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.BLL\\Dtos\\CustomerDto.cs",
+              "RelativeToolTip": "Online_Shop_API.BLL\\Dtos\\CustomerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T13:38:03.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.DAL\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "Online_Shop_API.DAL\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.DAL\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "Online_Shop_API.DAL\\Repositories\\CustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T12:46:08.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.BLL\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Online_Shop_API.BLL\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.BLL\\Services\\ProductService.cs",
+              "RelativeToolTip": "Online_Shop_API.BLL\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCsAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T13:31:38.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.BLL\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Online_Shop_API.BLL\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.BLL\\Services\\OrderService.cs",
+              "RelativeToolTip": "Online_Shop_API.BLL\\Services\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T14:10:50.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "OrderDetailService.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.BLL\\Services\\OrderDetailService.cs",
+              "RelativeDocumentMoniker": "Online_Shop_API.BLL\\Services\\OrderDetailService.cs",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.BLL\\Services\\OrderDetailService.cs",
+              "RelativeToolTip": "Online_Shop_API.BLL\\Services\\OrderDetailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T14:14:37.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CostomerService.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.BLL\\Services\\CostomerService.cs",
+              "RelativeDocumentMoniker": "Online_Shop_API.BLL\\Services\\CostomerService.cs",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.BLL\\Services\\CostomerService.cs",
+              "RelativeToolTip": "Online_Shop_API.BLL\\Services\\CostomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T13:51:01.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.BLL\\Services\\Interfaces\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Online_Shop_API.BLL\\Services\\Interfaces\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.BLL\\Services\\Interfaces\\ICategoryService.cs",
+              "RelativeToolTip": "Online_Shop_API.BLL\\Services\\Interfaces\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T13:56:42.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.DAL\\Repositories\\Interfaces\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "Online_Shop_API.DAL\\Repositories\\Interfaces\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.DAL\\Repositories\\Interfaces\\IOrderRepository.cs",
+              "RelativeToolTip": "Online_Shop_API.DAL\\Repositories\\Interfaces\\IOrderRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T13:04:53.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IOrderDetailService.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.BLL\\Services\\Interfaces\\IOrderDetailService.cs",
+              "RelativeDocumentMoniker": "Online_Shop_API.BLL\\Services\\Interfaces\\IOrderDetailService.cs",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.BLL\\Services\\Interfaces\\IOrderDetailService.cs",
+              "RelativeToolTip": "Online_Shop_API.BLL\\Services\\Interfaces\\IOrderDetailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T14:13:50.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.DAL\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Online_Shop_API.DAL\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.DAL\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "Online_Shop_API.DAL\\Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAIwGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T13:09:48.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.BLL\\Services\\Interfaces\\IOrderService.cs",
+              "RelativeDocumentMoniker": "Online_Shop_API.BLL\\Services\\Interfaces\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.BLL\\Services\\Interfaces\\IOrderService.cs",
+              "RelativeToolTip": "Online_Shop_API.BLL\\Services\\Interfaces\\IOrderService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T14:10:20.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.BLL\\Services\\Interfaces\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "Online_Shop_API.BLL\\Services\\Interfaces\\ICustomerService.cs",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.BLL\\Services\\Interfaces\\ICustomerService.cs",
+              "RelativeToolTip": "Online_Shop_API.BLL\\Services\\Interfaces\\ICustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T13:50:20.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.BLL\\Services\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "Online_Shop_API.BLL\\Services\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.BLL\\Services\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "Online_Shop_API.BLL\\Services\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T13:27:11.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "OrderDetailsController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.WebAPI\\Controllers\\OrderDetailsController.cs",
+              "RelativeDocumentMoniker": "Online_Shop_API.WebAPI\\Controllers\\OrderDetailsController.cs",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.WebAPI\\Controllers\\OrderDetailsController.cs",
+              "RelativeToolTip": "Online_Shop_API.WebAPI\\Controllers\\OrderDetailsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T15:06:16.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.WebAPI\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Online_Shop_API.WebAPI\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.WebAPI\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Online_Shop_API.WebAPI\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwDQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T14:32:01.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "CategorysController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.WebAPI\\Controllers\\CategorysController.cs",
+              "RelativeDocumentMoniker": "Online_Shop_API.WebAPI\\Controllers\\CategorysController.cs",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.WebAPI\\Controllers\\CategorysController.cs",
+              "RelativeToolTip": "Online_Shop_API.WebAPI\\Controllers\\CategorysController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T15:03:16.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.WebAPI\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "Online_Shop_API.WebAPI\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.WebAPI\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "Online_Shop_API.WebAPI\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T15:00:21.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "Online_Shop_API.WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.WebAPI\\appsettings.json",
+              "RelativeToolTip": "Online_Shop_API.WebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-04T14:33:29.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.UI\\appsettings.json",
+              "RelativeDocumentMoniker": "Online_Shop_API.UI\\appsettings.json",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.UI\\appsettings.json",
+              "RelativeToolTip": "Online_Shop_API.UI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-04T12:30:21.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.UI\\Program.cs",
+              "RelativeDocumentMoniker": "Online_Shop_API.UI\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.UI\\Program.cs",
+              "RelativeToolTip": "Online_Shop_API.UI\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAUwBYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T12:34:48.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "IOrderDetailRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.DAL\\Repositories\\Interfaces\\IOrderDetailRepository.cs",
+              "RelativeDocumentMoniker": "Online_Shop_API.DAL\\Repositories\\Interfaces\\IOrderDetailRepository.cs",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.DAL\\Repositories\\Interfaces\\IOrderDetailRepository.cs",
+              "RelativeToolTip": "Online_Shop_API.DAL\\Repositories\\Interfaces\\IOrderDetailRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T13:19:33.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "CustomProfile.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.BLL\\Mapper\\CustomProfile.cs",
+              "RelativeDocumentMoniker": "Online_Shop_API.BLL\\Mapper\\CustomProfile.cs",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.BLL\\Mapper\\CustomProfile.cs",
+              "RelativeToolTip": "Online_Shop_API.BLL\\Mapper\\CustomProfile.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowA4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T13:36:16.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.BLL\\Dtos\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "Online_Shop_API.BLL\\Dtos\\CategoryDto.cs",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.BLL\\Dtos\\CategoryDto.cs",
+              "RelativeToolTip": "Online_Shop_API.BLL\\Dtos\\CategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T13:42:09.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "OrderDetailDto.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.BLL\\Dtos\\OrderDetailDto.cs",
+              "RelativeDocumentMoniker": "Online_Shop_API.BLL\\Dtos\\OrderDetailDto.cs",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.BLL\\Dtos\\OrderDetailDto.cs",
+              "RelativeToolTip": "Online_Shop_API.BLL\\Dtos\\OrderDetailDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T13:39:50.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.BLL\\Dtos\\OrderDto.cs",
+              "RelativeDocumentMoniker": "Online_Shop_API.BLL\\Dtos\\OrderDto.cs",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.BLL\\Dtos\\OrderDto.cs",
+              "RelativeToolTip": "Online_Shop_API.BLL\\Dtos\\OrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T13:38:50.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.DAL\\Entities\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "Online_Shop_API.DAL\\Entities\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.DAL\\Entities\\OrderDetail.cs",
+              "RelativeToolTip": "Online_Shop_API.DAL\\Entities\\OrderDetail.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T12:12:43.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.DAL\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Online_Shop_API.DAL\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.DAL\\Entities\\Order.cs",
+              "RelativeToolTip": "Online_Shop_API.DAL\\Entities\\Order.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T12:02:07.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.BLL\\Dtos\\ProductDto.cs",
+              "RelativeDocumentMoniker": "Online_Shop_API.BLL\\Dtos\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.BLL\\Dtos\\ProductDto.cs",
+              "RelativeToolTip": "Online_Shop_API.BLL\\Dtos\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T13:30:00.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "OrderDetailRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.DAL\\Repositories\\OrderDetailRepository.cs",
+              "RelativeDocumentMoniker": "Online_Shop_API.DAL\\Repositories\\OrderDetailRepository.cs",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.DAL\\Repositories\\OrderDetailRepository.cs",
+              "RelativeToolTip": "Online_Shop_API.DAL\\Repositories\\OrderDetailRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T13:20:30.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.DAL\\Repositories\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Online_Shop_API.DAL\\Repositories\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.DAL\\Repositories\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "Online_Shop_API.DAL\\Repositories\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T12:50:22.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.DAL\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Online_Shop_API.DAL\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.DAL\\Entities\\Product.cs",
+              "RelativeToolTip": "Online_Shop_API.DAL\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T11:57:19.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.DAL\\Repositories\\Interfaces\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Online_Shop_API.DAL\\Repositories\\Interfaces\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.DAL\\Repositories\\Interfaces\\ICategoryRepository.cs",
+              "RelativeToolTip": "Online_Shop_API.DAL\\Repositories\\Interfaces\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T12:55:54.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.DAL\\Repositories\\Interfaces\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "Online_Shop_API.DAL\\Repositories\\Interfaces\\ICustomerRepository.cs",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.DAL\\Repositories\\Interfaces\\ICustomerRepository.cs",
+              "RelativeToolTip": "Online_Shop_API.DAL\\Repositories\\Interfaces\\ICustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T12:44:45.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.DAL\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Online_Shop_API.DAL\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.DAL\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Online_Shop_API.DAL\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T12:50:52.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.DAL\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Online_Shop_API.DAL\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.DAL\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "Online_Shop_API.DAL\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T12:56:30.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "20260604124156_initialDB.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.DAL\\Migrations\\20260604124156_initialDB.cs",
+              "RelativeDocumentMoniker": "Online_Shop_API.DAL\\Migrations\\20260604124156_initialDB.cs",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.DAL\\Migrations\\20260604124156_initialDB.cs",
+              "RelativeToolTip": "Online_Shop_API.DAL\\Migrations\\20260604124156_initialDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T12:41:56.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.DAL\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Online_Shop_API.DAL\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\Code Academy\\Online_Shop_API\\Solution1\\Online_Shop_API.DAL\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Online_Shop_API.DAL\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowBEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T12:24:00.904Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
